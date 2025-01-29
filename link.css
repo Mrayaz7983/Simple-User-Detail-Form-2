@@ -1,0 +1,20 @@
+body {
+    text-align: center;
+    background: rgb(238, 174, 202);
+    background: radial-gradient(circle, rgba(238, 174, 202, 1) 0%, rgba(243, 189, 92, 1) 40%, rgba(245, 197, 35, 0.9836309523809523) 61%, rgba(243, 202, 50, 1) 66%, rgba(238, 215, 93, 1) 81%, rgba(231, 233, 148, 1) 100%);
+}
+
+
+div {
+    border: 2px solid #ac03a97e;
+    height: 410px;
+    width: 400px;
+    margin: 100px auto;
+    border-radius: 8px;
+
+}
+
+h1 {
+    text-align: center;
+    color: #360a35db;
+}
